@@ -2,7 +2,10 @@
 
 <table>
   
-  ![DevLinks rocketseat](https://github.com/PatrickGabrielSilva/DevLinks/assets/110678439/c5991a82-00b0-48cc-ad85-113edd9a7b01)
+
+  
+  ![DevLinks rocketseat](https://github.com/PatrickGabrielSilva/DevLinks/assets/110678439/c75bd84a-b507-463e-835a-df98de6ddaa0)
+
 </table>
 
 
