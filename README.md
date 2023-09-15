@@ -1,5 +1,15 @@
 # Projeto Discover - Site Pessoal 🚀
 
+<table>
+  <tr>
+    <td><img src="https://github.com/PatrickGabrielSilva/DevLinks/assets/110678439/112bec3d-ba19-40be-a61b-f6fbc95ea278" alt="Imagem 1"></td>
+    <td><img src="https://github.com/PatrickGabrielSilva/DevLinks/assets/110678439/f03ce8d8-3813-47c6-959c-e569a726ffc0" alt="Imagem 2"></td>
+  </tr>
+</table>
+
+
+
+
 Este é o site pessoal desenvolvido durante o curso Discover da Rocketseat. O site apresenta informações sobre mim, links para redes sociais, um interruptor para alternar entre modos claro e escuro e é construído com as seguintes tecnologias:
 
 - **HTML** para estruturar a página.
