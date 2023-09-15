@@ -23,4 +23,6 @@ Este é o site pessoal desenvolvido durante o curso Discover da Rocketseat. O si
 - **Links para Redes Sociais:** Fornece acesso rápido aos meus perfis nas redes sociais.
 - **Layout Responsivo:** A página se adapta a diferentes tamanhos de tela 📱💻.
 
+- acesse o site: https://patrickgabrielsilva.github.io/DevLinks/
+
 Sinta-se à vontade para explorar o código-fonte e personalizar este site para suas próprias necessidades. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato 📧.
