@@ -1,6 +1,12 @@
 # Projeto Discover - Site Pessoal 🚀
 
-Este é o site pessoal desenvolvido durante o curso Discover da Rocketseat. O site apresenta informações sobre mim, links para redes sociais, um interruptor para alternar entre modos claro e escuro, e é construído com HTML, CSS e JavaScript.
+Este é o site pessoal desenvolvido durante o curso Discover da Rocketseat. O site apresenta informações sobre mim, links para redes sociais, um interruptor para alternar entre modos claro e escuro e é construído com as seguintes tecnologias:
+
+- **HTML** para estruturar a página.
+- **CSS** para estilizar a página.
+- **JavaScript** para adicionar funcionalidades interativas.
+- **Git e GitHub** para controle de versão e hospedagem do projeto.
+- **Figma** para design e prototipagem.
 
 ## Recursos Destacados
 
