@@ -1,10 +1,8 @@
 # Projeto Discover - Site Pessoal 🚀
 
 <table>
-  <tr>
-    <td><img src="https://github.com/PatrickGabrielSilva/DevLinks/assets/110678439/112bec3d-ba19-40be-a61b-f6fbc95ea278" alt="Imagem 1"></td>
-    <td><img src="https://github.com/PatrickGabrielSilva/DevLinks/assets/110678439/f03ce8d8-3813-47c6-959c-e569a726ffc0" alt="Imagem 2"></td>
-  </tr>
+  
+  ![DevLinks rocketseat](https://github.com/PatrickGabrielSilva/DevLinks/assets/110678439/c5991a82-00b0-48cc-ad85-113edd9a7b01)
 </table>
 
 
